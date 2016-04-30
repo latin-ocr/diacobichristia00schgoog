@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diacobichristia00schgoog_0056.png"; bbox 0 0 1527 1879; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 607 294 926 329">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 607 294 926 329">
+     <span class='ocr_line' id='line_1_1' title="bbox 607 294 926 329; baseline 0.009 -3"><span class='ocrx_word' id='word_1_1' title='bbox 607 298 754 328; x_wconf 79' lang='lat' dir='ltr'><em>TABVLA</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 776 294 926 329; x_wconf 77' lang='lat' dir='ltr'><em>CCXXIII,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 731 393 809 427">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 731 393 809 427">
+     <span class='ocr_line' id='line_1_2' title="bbox 731 393 809 427; baseline 0 -9"><span class='ocrx_word' id='word_1_3' title='bbox 731 393 809 427; x_wconf 53' lang='grc'><em>9791,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 242 1530 1282 1566">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 242 1530 1282 1566">
+     <span class='ocr_line' id='line_1_3' title="bbox 242 1530 1282 1566; baseline 0.012 -18"><span class='ocrx_word' id='word_1_4' title='bbox 242 1553 247 1560; x_wconf 49' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_5' title='bbox 280 1530 424 1557; x_wconf 57' lang='lat' dir='ltr'><em>mel-ankze.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1048 1542 1234 1559; x_wconf 22' lang='lat' dir='ltr'><em>lvclrnvfflanaeae.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1279 1562 1282 1566; x_wconf 17' lang='grc' dir='ltr'><strong><em>ἱ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diacobichristia00schgoog_0128.png"; bbox 0 0 1527 1879; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 621 312 891 350">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 621 312 891 350">
+     <span class='ocr_line' id='line_1_1' title="bbox 621 312 891 350; baseline -0.004 -12"><span class='ocrx_word' id='word_1_1' title='bbox 621 313 753 349; x_wconf 61' lang='lat' dir='ltr'><em>Tfflma</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 771 312 891 350; x_wconf 63' lang='lat' dir='ltr'>ceux,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 352 1358 954 1471">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 352 1358 954 1471">
+     <span class='ocr_line' id='line_1_2' title="bbox 352 1358 954 1471; baseline -0.005 -83"><span class='ocrx_word' id='word_1_3' title='bbox 352 1367 355 1370; x_wconf 91' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_4' title='bbox 479 1359 502 1471; x_wconf 61' lang='grc' dir='ltr'>Ε</span> <span class='ocrx_word' id='word_1_5' title='bbox 547 1362 633 1396; x_wconf 41' lang='grc' dir='ltr'><em>ἔφη.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 870 1358 954 1391; x_wconf 60' lang='lat' dir='ltr'><em>ffigz-VH</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1112 1539 1242 1566">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1112 1539 1242 1566">
+     <span class='ocr_line' id='line_1_3' title="bbox 1112 1539 1242 1566; baseline 0 -3"><span class='ocrx_word' id='word_1_7' title='bbox 1112 1539 1242 1566; x_wconf 47' lang='lat' dir='ltr'><em>&#39;liaffff-N’a-</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
